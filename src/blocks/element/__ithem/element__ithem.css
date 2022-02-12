@@ -1,0 +1,13 @@
+.element__ithem{
+    width: 282px;
+    max-height: 282px;
+    min-height: 282px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+    transition: opacity .5s ease-in;
+  }
+
+.element__ithem:hover{
+    opacity: .8;
+    cursor: pointer;
+}

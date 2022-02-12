@@ -1,0 +1,16 @@
+.element{
+  position: relative;
+    background-color: white;
+    width: 282px;
+    height: 362px;
+    border-radius: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@media (max-width: 1279px) {
+    .element{
+      margin: auto;
+    }
+  }

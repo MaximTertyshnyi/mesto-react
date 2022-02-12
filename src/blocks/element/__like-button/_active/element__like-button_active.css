@@ -1,0 +1,7 @@
+.element__like-button_active{
+    min-width: 22px;
+    min-height: 19px;
+    background: url(../../../../images/B-heart.svg) no-repeat;
+    background-position: center;
+    padding: 0;
+}

@@ -6,7 +6,7 @@
 
 **Ссылка на проект**
 
-* [Ссылка]https://maximtertyshnyi.github.io/mesto/
+* [Ссылка]https://maximtertyshnyi.github.io/mesto-react/
 
 **Что было сделано в ходе разработки**
 
